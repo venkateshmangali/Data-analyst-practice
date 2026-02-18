@@ -130,8 +130,11 @@ Python    ░░░░░░░░░░░░░░░░░░░░  0%   - N
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/venkateshmangali)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/venkateshmangali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/venkatesh-mangali-441699352/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/venkateshmangali)
+
+📧 Feel free to connect! I'm always open to networking with fellow data enthusiasts.
 
 ---
 
